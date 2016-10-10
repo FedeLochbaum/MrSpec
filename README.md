@@ -7,7 +7,7 @@ Mediante el uso de DSLs y metaprogramación tenemos como objetivo lograr un fram
 permitiendo la realización de los tests de forma sencilla y pudiendo utilizar el principio GIVEN, WHEN, THEN
 
 ##Stack Tecnológico
-[![StackShare](http://d27momt4n1f9pb.cloudfront.net/assets/stackshare-logo-5ae67a54b3fde02b445ee57486d00f7c753c18cd1d61d66bd77955a8bf05c508.png)(http://stackshare.io/rodrigoep94/mr-spec)
+[![StackShare](http://d27momt4n1f9pb.cloudfront.net/assets/stackshare-logo-5ae67a54b3fde02b445ee57486d00f7c753c18cd1d61d66bd77955a8bf05c508.png)] (http://stackshare.io/rodrigoep94/mr-spec)
 
 ## Integrantes:
 
