@@ -25,28 +25,52 @@
 
 \section{Introducción}
 
-El presente documento tiene por objeto documentar la visión general del proyecto.\newline
+Este documento tiene como objetivo documentar la visión y alcance del proyecto.\newline
 
-El objetivo es proveer una visión de alto nivel de los elementos que se abarcarán en el sistema, los que no se incluirán, quienes están involucrados la funcionalidad que abarca el sistema, sus necesidades, los objetivos principales del sistema y las restricciones.
+El objetivo es proveer una visión de alto nivel de los elementos que se abarcarán en el sistema, los que no se incluirán,
+que funcionalidad se incluira, sus necesidades, los objetivos principales del sistema y las restricciones.
 
 \newpage
 \section{Enunciado del problema}
 \subsection{Necesidad}
+
+Hay varias plataformas que utilizan BDD para realizar testing pero ninguna que anuncie explícitamente el principio 
+Given-When-Then, por lo tanto hemos considerado necesario desarrollar una herramienta que posibilite esto, de forma 
+que se pueden desarrollar proyectos utilizando BDD con lenguaje "coloquial".
+
 \subsection{Problemas \& Motivación}
+
+Debido a la falta de frameworks de testing que permitan realizar BDD utilizando Given - When - Then se decidió desarrollar 
+en Ruby y para Ruby un framework capaz de presentar tests con estas características.
+
 \newpage
-\section{Visión}
+
 \section{Solución Propuesta}
+
 \subsection{Objetivos}
+
+El framework a desarrollar le permitirá a los usuarios que lo utilicen poder crear y correr tests con diferentes aserciones 
+utilizando el principio Given-When-Tthen. \newline
+
+Además podrán ver informes detallados según si el test fue correcto o incorrecto.
+
 \subsection{Alcance}
+
+El sistema a desarrollar permitirá crear y correr distintos tipos de tests para comprobar la funcionalidad de un sistema.
+
 \subsection{Stakeholders \& Usuarios}
 \subsubsection{Perfiles de los Stakeholders}
+\begin{itemize}
+    \item Usuarios de Ruby
+\end{itemize}
 \subsubsection{Perfiles de los Usuarios}
-\subsection{Supuestos y Dependencias}
-\subsection{Restricciones de Fechas}
-\subsection{Otras restriccinoes}
+\begin{itemize}
+    \item Personas que utilicen Ruby
+    \item Interesados en realizar BDD en sus proyectos
+\end{itemize}
 \newpage
+
 \section{Cronograma}
 \newpage
-\section{Riesgos}
 
 \end{document}
