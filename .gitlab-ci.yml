@@ -5,8 +5,8 @@ cache:
   - grupal-mr-spec/MrSpec/
 
 before_script:
-  - gem install bundler  --no-ri --no-rdoc
   - cd grupal-mr-spec/MrSpec/
+  - gem install bundler  --no-ri --no-rdoc
   - bundle install
 
 rspec:
