@@ -2,7 +2,7 @@ image: ruby:2.2
 
 cache:   
   paths:     
-  - MrSpec
+  - grupal-mr-spec/MrSpec/
 
 before_script:
   - gem install bundler  --no-ri --no-rdoc
