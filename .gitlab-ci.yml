@@ -2,11 +2,11 @@ image: ruby:2.2
 
 cache:   
   paths:     
-  - Mr Spec/Gemfile
+  - Mr Spec
 
-before_script:   
-  - gem install bundler  --no-ri --no-rdoc 
-  - bundle install -j $(nproc) --path Mr Spec/Gemfile  
+before_script:
+  - gem install bundler
+  - bundle install  
 
 rspec:
   script:   
