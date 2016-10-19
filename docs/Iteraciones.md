@@ -4,7 +4,7 @@
 Resumen:
 
 
-####User Stories pactadas para iteración 1:
+#### User Stories pactadas para iteración 1:
 
 #### Retrospectiva
 
