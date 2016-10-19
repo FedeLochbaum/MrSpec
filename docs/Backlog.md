@@ -9,7 +9,10 @@ Resumen:
 
 ### User stories a realizar:
 * Como usuario quiero asertar que el resultado de un método es True para verificar el funcionamiento del mismo.
-* Como usuario quiero asertar que el resultado de un método es igual a algo esperado para verificar el funcionamiento del mismo.
 * Como usuario quiero asertar que el resultado de un método es False para verificar el funcionamiento del mismo.
+* Como usuario quiero asertar que el resultado de un método es igual a algo esperado para verificar el funcionamiento del mismo.
 
+Nice to have:
+* Como usuario quiero obtener todos los archivos que terminen con _mrSpec
+* Como usuario quiero obtener todos los métodos para evaluar que finalicen con mrSpec
 
