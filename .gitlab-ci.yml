@@ -10,6 +10,5 @@ before_script:
 
 rspec:
   script:   
-  - cd MrSpec
-  - rspec spec
+  - rspec MrSpec/spec
 
