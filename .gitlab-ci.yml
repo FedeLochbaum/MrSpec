@@ -10,6 +10,6 @@ before_script:
 
 rspec:
   script:   
-  - pwd
+  - cd MrSpec/spec
   - rspec spec
 
