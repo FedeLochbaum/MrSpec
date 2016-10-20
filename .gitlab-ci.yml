@@ -10,5 +10,6 @@ before_script:
 
 rspec:
   script:   
+  - pwd
   - rspec spec
 
