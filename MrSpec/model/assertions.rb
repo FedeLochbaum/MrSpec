@@ -9,7 +9,7 @@ module Assertions
   end
 
   def assertEquals value, value1
-    value == value1
+    value.equal? value1
   end
 
 end

@@ -5,6 +5,7 @@ class MrSpec
   end
 
   def isMrSpecTest method
-    method.to_s.end_with? 'MrSpec'
+    method.to_s.end_with? '_MrSpec'
   end
+
 end
