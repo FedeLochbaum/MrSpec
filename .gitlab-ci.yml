@@ -9,6 +9,7 @@ before_script:
   - bundle install -j $(nproc) --gemfile=MrSpec/Gemfile
 
 rspec:
-  script:   
+  script:  
+  - cd MrSpec
   - rspec spec
 
