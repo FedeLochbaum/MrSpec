@@ -22,5 +22,8 @@
 
 * Como *usuario* quiero *tener documentacion* para *poder instalar y usar el Framework*.
 
+* Como *usuario* quiero *instalar el Framework como una gema* para *facilitar el uso del mismo*.
+
+
 
 [Story Mapping](https://gitlab.com/eis-tpi-unq-2016-s02/grupal-MrSpec/blob/master/docs/VisualStoryMapping.pdf)
