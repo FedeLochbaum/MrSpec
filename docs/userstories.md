@@ -27,3 +27,5 @@
 
 
 [Story Mapping](https://gitlab.com/eis-tpi-unq-2016-s02/grupal-MrSpec/blob/master/docs/VisualStoryMapping.pdf)
+
+[Backlog en Trello](https://trello.com/b/8iEmpu9x/mrspec)
