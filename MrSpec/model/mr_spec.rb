@@ -1,5 +1,6 @@
 require_relative '../model/assertions'
 require_relative '../model/test_results'
+require_relative '../model/report'
 
 class MrSpec
 
@@ -9,6 +10,14 @@ class MrSpec
 
   def isMrSpecTest method
     method.to_s.end_with? '_MrSpec'
+  end
+
+  def runTests klass
+    tests = self.getMrSpecTests klass
+    results = tests.map{|test| self.run_test klass,test}
+    report = Report.new
+    report.addResults results
+    report
   end
 
   def run_test test_suite, test

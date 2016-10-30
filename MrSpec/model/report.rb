@@ -12,12 +12,21 @@ class Report
     @end_time = Time.now
   end
 
+  def addResults results
+    @results.concat results
+    @end_time = Time.now
+  end
+
   def getSuccessResult
     @results.select {|result| result.success?}
   end
 
   def getFailureResult
     @results.select {|result| result.failure?}
+  end
+
+  def success?
+    @results.all? {|result | result.success?}
   end
 
   def timeLapse

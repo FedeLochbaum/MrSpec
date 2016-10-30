@@ -43,4 +43,19 @@ describe 'Un Runner MrSpec' do
     result = runner.run_test ExampleSuit, :assert_tres_eq_dos_MrSpec
     expect(result.success?).to eq false
   end
+
+  it 'Deberia correr todos los test de la clase ExampleSuit y devolver un reporte, el cual indica que el test no paso' do
+    report = runner.runTests ExampleSuit
+    expect(report.success?).to eq false
+  end
+
+  it 'Deberia correr todos los test de la clase ExampleSuit y devolver los que pasaron' do
+    report = runner.runTests ExampleSuit
+    expect(report.getSuccessResult.size).to eq 4
+  end
+
+  it 'Deberia correr todos los test de la clase ExampleSuit y devolver los que no pasaron' do
+    report = runner.runTests ExampleSuit
+    expect(report.getFailureResult.size).to eq 1
+  end
 end
