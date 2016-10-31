@@ -13,13 +13,16 @@ class Test_result
     def success?
       false
     end
+
+    def message
+      self.exception.message
+    end
 end
 
  class TestSucceded < Test_result
     def success?
       true
     end
-
  end
 
  class TestFailed < Test_result
