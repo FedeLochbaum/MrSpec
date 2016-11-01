@@ -37,6 +37,11 @@ class Report
     self.results.each do |result|
       puts result.message
     end
+    
+     puts "#{self.results.length} tests"
+     puts "#{self.getSuccessResult.length} tests ejecutados correctamente"
+     puts "#{self.getFailureResult.length} tests fallidos"
+     puts "Tests ejecutados en in #{(self.timeLapse} segundos"
   end
 
 end
