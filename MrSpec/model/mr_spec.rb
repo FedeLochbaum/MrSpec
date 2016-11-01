@@ -17,6 +17,7 @@ class MrSpec
     results = tests.map{|test| self.run_test klass,test}
     report = Report.new
     report.addResults results
+    report.report
     report
   end
 
@@ -25,8 +26,8 @@ class MrSpec
     begin
       test_case.send test
     rescue AssertionException => e
-      return TestFailed.new test, e
+      return TestFailed.new test, test_suite, e
     end
-    TestSucceded.new test
+    TestSucceded.new test, test_suite, nil
   end
 end

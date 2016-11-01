@@ -7,9 +7,9 @@ require_relative '../model/Utils/Test_suits/example_suit'
 describe 'Un Reporte MrSpec con 3 test, 2 success y 1 failure' do
   before :each do
     @report = Report.new
-    @report.addResult(TestSucceded.new :sarasa_MrSpec)
-    @report.addResult(TestSucceded.new :nuevoTest_MrSpec)
-    @report.addResult(TestFailed.new  :testFeo_MrSpec, Exception.new)
+    @report.addResult(TestSucceded.new :sarasa_MrSpec, ExampleSuit, nil)
+    @report.addResult(TestSucceded.new :nuevoTest_MrSpec, ExampleSuit, nil)
+    @report.addResult(TestFailed.new  :testFeo_MrSpec, ExampleSuit, Exception.new)
   end
 
   it 'Dado una lista de resultados debe darnos todos los que funcionaron' do
@@ -21,7 +21,7 @@ describe 'Un Reporte MrSpec con 3 test, 2 success y 1 failure' do
   end
 
   it 'Dado los resultados, el reporte dice cuanto tardo en ejecutar todos los resultados' do
-    expect(@report.timeLapse).to be_between 0.5, 2.0
+    expect(@report.timeLapse).to be_between 0.0, 5.0
   end
 
 end

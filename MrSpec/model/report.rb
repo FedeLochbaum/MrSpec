@@ -33,5 +33,10 @@ class Report
     ((@end_time - @beginning_time) * 24 * 60 * 60).to_f
   end
 
+  def report
+    self.results.each do |result|
+      puts result.message
+    end
+  end
 
 end
