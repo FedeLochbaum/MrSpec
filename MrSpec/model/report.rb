@@ -41,7 +41,7 @@ class Report
      puts self.results.length.to_s + " tests"
      puts self.getSuccessResult.length.to_s + " tests ejecutados correctamente"
      puts self.getFailureResult.length.to_s +  " tests fallidos"
-     puts "Tests ejecutados en in " self.timeLapse.to_s + " segundos"
+     puts "Tests ejecutados en in " + self.timeLapse.to_s + " segundos"
   end
 
 end
