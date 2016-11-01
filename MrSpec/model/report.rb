@@ -38,10 +38,10 @@ class Report
       puts result.message
     end
     
-     puts "#{self.results.length} tests"
-     puts "#{self.getSuccessResult.length} tests ejecutados correctamente"
-     puts "#{self.getFailureResult.length} tests fallidos"
-     puts "Tests ejecutados en in #{(self.timeLapse} segundos"
+     puts self.results.length.to_s + " tests"
+     puts self.getSuccessResult.length.to_s + " tests ejecutados correctamente"
+     puts self.getFailureResult.length.to_s +  " tests fallidos"
+     puts "Tests ejecutados en in " self.timeLapse.to_s + " segundos"
   end
 
 end
