@@ -26,7 +26,7 @@ end
       if(self.exception.nil?)
         "El test " + signature.to_s + " de la clase " + self.test_case.to_s + "se ha ejecutado correctamente"
       else
-        self.exception.message
+        "Error en test " + signature.to_s + " de la clase " + self.test_case.to_s + self.exception.message
       end
     end
  end
@@ -37,7 +37,7 @@ end
    end
 
    def message
-     self.exception.message
+     "Error en test " + signature.to_s + " de la clase " + self.test_case.to_s + self.exception.message
    end
  end
 
