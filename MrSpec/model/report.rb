@@ -9,12 +9,10 @@ class Report
 
   def addResult result
     @results.push result
-    @end_time = Time.now
   end
 
   def addResults results
     @results.concat results
-    @end_time = Time.now
   end
 
   def getSuccessResult
@@ -34,6 +32,7 @@ class Report
   end
 
   def report
+    @end_time = Time.now
     self.results.each do |result|
       puts result.message
     end
