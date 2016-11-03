@@ -28,4 +28,17 @@ Nice to have:
 
 * Cantidad de puntos de iteracion: 12/12
 
+# Iteración 3
+*Fecha: 09/11/2016*
+
+### User stories a realizar:
+* Como usuario quiero poder ejecutar un before antes de correr cada test. (Dificultad: 5)
+* Como usuario quiero poder ejecutar un after despues de correr cada test. (Dificultad: 5)
+* Como usuario quiero poder ver el reporte de los test evaluados con un buen formato para facilitar la lectura del mismo. (Dificultad: 2)
+
+Nice to have:
+* Como desarrollador Quiero tener una best practice de OpenUP Eclipse funcionando en el proyecto para facilitar el crecimiento del mismo. (Dificultad: 3)
+
+* Cantidad de puntos de iteracion: 12/12
+
 
