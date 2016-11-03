@@ -24,10 +24,18 @@ class MrSpec
   def run_test test_suite, test
     test_case = test_suite.new.extend(Assertions)
     begin
+      call_method test_case, :before
       test_case.send test
+      call_method test_case, :after
     rescue AssertionException => e
       return TestFailed.new test, test_suite, e
     end
     TestSucceded.new test, test_suite, nil
+  end
+
+  def call_method test_case, selector
+    if test_case.respond_to? selector
+      test_case.send selector
+    end
   end
 end

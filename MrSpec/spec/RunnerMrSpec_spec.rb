@@ -58,4 +58,5 @@ describe 'Un Runner MrSpec' do
     report = runner.runTests ExampleSuit
     expect(report.getFailureResult.size).to eq 1
   end
+
 end

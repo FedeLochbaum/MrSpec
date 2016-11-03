@@ -2,12 +2,21 @@ require_relative '../../../model/assertions'
 
 class ExampleSuit
 
+  def before
+    @condition = nil
+    @condition2 = nil
+    @num = nil
+    @num2 = nil
+  end
+
   def assert_true_true_MrSpec
-    assertTrue true
+    @condition = true
+    assertTrue @condition
   end
 
   def assert_false_false_MrSpec
-    assertFalse false
+    @condition2 = false
+    assertFalse @condition2
   end
 
   def c
@@ -19,10 +28,20 @@ class ExampleSuit
   end
 
   def assert_tres_eq_dos_MrSpec
-    assertEquals 3, 2
+    @num2 = 3
+    @num = 2
+    assertEquals @num2, @num
   end
 
   def f_MrSpec
 
+  end
+
+
+  def after
+    @condition = nil
+    @condition2 = nil
+    @num = nil
+    @num2 = nil
   end
 end
