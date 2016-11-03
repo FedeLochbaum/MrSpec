@@ -21,21 +21,21 @@ class MrSpec
     report
   end
 
-  def run_test test_suite, test
-    test_case = test_suite.new.extend(Assertions)
+  def run_test klass, test
+    sut = klass.new.extend(Assertions)
     begin
-      call_method test_case, :before
-      test_case.send test
-      call_method test_case, :after
+      call_method sut, :before
+      sut.send test
+      call_method sut, :after
     rescue AssertionException => e
-      return TestFailed.new test, test_suite, e
+      return TestFailed.new test, klass, e
     end
-    TestSucceded.new test, test_suite, nil
+    TestSucceded.new test, klass, nil
   end
 
-  def call_method test_case, selector
-    if test_case.respond_to? selector
-      test_case.send selector
+  def call_method sut, selector
+    if sut.respond_to? selector
+      sut.send selector
     end
   end
 end
