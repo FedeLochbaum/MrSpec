@@ -7,7 +7,7 @@ Mediante el uso de DSLs y metaprogramación tenemos como objetivo lograr un fram
 permitiendo la realización de los tests de forma sencilla y pudiendo utilizar el principio GIVEN, WHEN, THEN
 
 
-![](https://gitlab.com/eis-tpi-unq-2016-s02/grupal-mr-spec/blob/master/docs/MrSpecreadme.png)
+![](https://gitlab.com/eis-tpi-unq-2016-s02/grupal-mr-spec/raw/master/docs/MrSpecreadme.png)
 
 
 ## Stack Tecnológico
