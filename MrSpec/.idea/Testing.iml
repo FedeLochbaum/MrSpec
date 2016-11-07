@@ -171,6 +171,16 @@
     <orderEntry type="jdk" jdkName="RVM: ruby-2.2.4" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
+      <library name="colorize (vbundled(0.8.1), /home/trimegisto/Documentos/Universidad/Materias s2 2016/Ingenieria/grupal-MrSpec/MrSpec/MrSpec/ruby/2.2.0/gems/colorize-0.8.1) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/MrSpec/ruby/2.2.0/gems/colorize-0.8.1/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/MrSpec/ruby/2.2.0/gems/colorize-0.8.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="diff-lcs (vbundled(1.2.5), /home/trimegisto/Documentos/Universidad/Materias s2 2016/Ingenieria/grupal-MrSpec/MrSpec/MrSpec/ruby/2.2.0/gems/diff-lcs-1.2.5) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/MrSpec/ruby/2.2.0/gems/diff-lcs-1.2.5/bin" />
