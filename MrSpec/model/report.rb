@@ -31,16 +31,32 @@ class Report
     ((@end_time - @beginning_time) * 24 * 60 * 60).to_f
   end
 
+  def putsMrSpecMessage
+    puts("................................................................................".colorize(:black).bold)
+    puts("MMMMM...MMMMM.MMMMMMMMMM.........MMMMMMMMM.MMMMMMMMM.....MMMMMMMMM...MMMMMMMMM..".colorize(:black).bold)
+    puts("MM.ZMM.MMM.MM.........IMM......MMM.........MM......MMM..MM$........,MM:.........".colorize(:black).bold)
+    puts("MM.M8MMMM7MMM.MMMMMMMMM.MM....ZMOMMMMMMMMM.MMMMMMMMMMM.DM=MMMMMMMM.MM.MMMMMMMM.".colorize(:black).bold)
+    puts("MM.M~MMM.MMMM.MMMMMMMMM$MM....8MIMMMMMZ....MMMM.MMMMMM.MM.MMMMMMM..MM.MM........".colorize(:black).bold)
+    puts("MM.MM.M.MMMMM.MMMMMMMM.MM7.....MMD~MMMMMM..MMMM.MMIMMM.MM.MMMMMMM..MM.MM........".colorize(:black).bold)
+    puts("MM.MMM.MMMMMM.MM.MMM$MMM........DMMMMMM$MM.MMMM.MMMM~..MM.MMMMMMM..MM.MM........".colorize(:black).bold)
+    puts("MM.MMMMMDMMMM.MM.MMMM.MM......MMMMMMMMM.MM.MMMM........MM.MMMMMMMM.MM.MMMMMMMM..".colorize(:black).bold)
+    puts("MM.MMMMM.MMMM.MM.MM.MM,MM.....MMMMMMMM.MM,.MMMM........,MM.MMMMMMM.MMM=MMMMMMM..".colorize(:black).bold)
+    puts("MM.MM.M..MMMM.MM.MM..MMMM,.MM.MMMMMMMMMM...MMMM.........NMMMMMMMMM..MMMMMMMMMM..".colorize(:black).bold)
+    puts("................................................................................".colorize(:black).bold)
+  end
+
   def report
+    putsMrSpecMessage
     @end_time = Time.now
     self.results.each do |result|
       puts result.message
     end
-    
-     puts self.results.length.to_s + " tests"
-     puts self.getSuccessResult.length.to_s + " tests ejecutados correctamente"
-     puts self.getFailureResult.length.to_s +  " tests fallidos"
-     puts "Tests ejecutados en in " + self.timeLapse.to_s + " segundos"
+
+    puts (self.results.length.to_s + " tests").colorize(:blue).bold
+     puts (self.getSuccessResult.length.to_s + " tests ejecutados correctamente").colorize(:blue).underline.bold
+     puts (self.getFailureResult.length.to_s +  " tests fallidos").colorize(:blue).bold
+     puts ("Tests ejecutados en " + self.timeLapse.to_s + " segundos").colorize(:blue).bold
+    puts String.colors
   end
 
 end

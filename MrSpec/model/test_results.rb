@@ -1,3 +1,5 @@
+require 'colorize'
+
 class Test_result
     attr_accessor :exception, :signature, :test_case
 
@@ -24,9 +26,9 @@ end
 
    def message
       if(self.exception.nil?)
-        "El test " + signature.to_s + " de la clase " + self.test_case.to_s + "se ha ejecutado correctamente"
+        ("El test " + signature.to_s + " de la clase " + self.test_case.to_s + "se ha ejecutado correctamente").colorize(:green).bold
       else
-        "Error en test " + signature.to_s + " de la clase " + self.test_case.to_s + " " + self.exception.message
+        ("Error en test " + signature.to_s + " de la clase " + self.test_case.to_s + " " + self.exception.message).colorize(:red).bold
       end
     end
  end
@@ -37,7 +39,7 @@ end
    end
 
    def message
-     "Error en test " + signature.to_s + " de la clase " + self.test_case.to_s + " " + self.exception.message
+     ("Error en test " + signature.to_s + " de la clase " + self.test_case.to_s + " " + self.exception.message).colorize(:red).bold
    end
  end
 
