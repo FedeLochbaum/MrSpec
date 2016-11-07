@@ -56,7 +56,6 @@ class Report
      puts (self.getSuccessResult.length.to_s + " tests ejecutados correctamente").colorize(:blue).underline.bold
      puts (self.getFailureResult.length.to_s +  " tests fallidos").colorize(:blue).bold
      puts ("Tests ejecutados en " + self.timeLapse.to_s + " segundos").colorize(:blue).bold
-    puts String.colors
   end
 
 end
