@@ -28,7 +28,7 @@ class Report
   end
 
   def timeLapse
-    ((@end_time - @beginning_time) * 24 * 60 * 60).to_f
+    (@end_time - @beginning_time).to_f
   end
 
   def putsMrSpecMessage
