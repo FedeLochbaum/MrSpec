@@ -1,7 +1,7 @@
 require 'rspec'
 require_relative '../model/mr_spec'
 require_relative '../model/assertions'
-require_relative '../model/Utils/Test_suits/example_suit'
+require_relative '../model/Utils/Test_suits/example_suit_mr_spec'
 
 describe 'Un Runner MrSpec' do
   let(:runner) {MrSpec.new}
@@ -17,7 +17,7 @@ describe 'Un Runner MrSpec' do
   end
 
   it 'Dada una clase con cinco metodos que terminan con _MrSpec la longitud de la lista getMrSpecTests debe dar cinco' do
-    expect((runner.getMrSpecTests ExampleSuit).size).to eq 5
+    expect((runner.getMrSpecTests ExampleSuit_mr_spec).size).to eq 5
   end
 
   it 'Dada una clase sin test que terminen con _MrSpec la longitud de la lista getMrSpecTests debe ser cero' do
@@ -25,37 +25,37 @@ describe 'Un Runner MrSpec' do
   end
 
   it 'Deberia correr el test assert_true_true_MrSpec y dar true' do
-    result = runner.run_test ExampleSuit, :assert_true_true_MrSpec
+    result = runner.run_test ExampleSuit_mr_spec, :assert_true_true_MrSpec
     expect(result.success?).to eq true
   end
 
   it 'Deberia correr el test assert_false_false_MrSpec y dar false' do
-    result = runner.run_test ExampleSuit, :assert_false_false_MrSpec
+    result = runner.run_test ExampleSuit_mr_spec, :assert_false_false_MrSpec
     expect(result.success?).to eq true
   end
 
   it 'Deberia correr el test assert_dos_eq_dos_MrSpec y dar true' do
-    result = runner.run_test ExampleSuit, :assert_dos_eq_dos_MrSpec
+    result = runner.run_test ExampleSuit_mr_spec, :assert_dos_eq_dos_MrSpec
     expect(result.success?).to eq true
   end
 
   it 'Deberia correr el test assert_tres_eq_dos_MrSpec y dar false' do
-    result = runner.run_test ExampleSuit, :assert_tres_eq_dos_MrSpec
+    result = runner.run_test ExampleSuit_mr_spec, :assert_tres_eq_dos_MrSpec
     expect(result.success?).to eq false
   end
 
-  it 'Deberia correr todos los test de la clase ExampleSuit y devolver un reporte, el cual indica que el test no paso' do
-    report = runner.runTests ExampleSuit
+  it 'Deberia correr todos los test de la clase ExampleSuitMrSpec y devolver un reporte, el cual indica que el test no paso' do
+    report = runner.runTests ExampleSuit_mr_spec
     expect(report.success?).to eq false
   end
 
-  it 'Deberia correr todos los test de la clase ExampleSuit y devolver los que pasaron' do
-    report = runner.runTests ExampleSuit
+  it 'Deberia correr todos los test de la clase ExampleSuitMrSpec y devolver los que pasaron' do
+    report = runner.runTests ExampleSuit_mr_spec
     expect(report.getSuccessResult.size).to eq 4
   end
 
-  it 'Deberia correr todos los test de la clase ExampleSuit y devolver los que no pasaron' do
-    report = runner.runTests ExampleSuit
+  it 'Deberia correr todos los test de la clase ExampleSuitMrSpec y devolver los que no pasaron' do
+    report = runner.runTests ExampleSuit_mr_spec
     expect(report.getFailureResult.size).to eq 1
   end
 

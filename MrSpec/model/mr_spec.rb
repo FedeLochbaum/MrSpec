@@ -12,6 +12,12 @@ class MrSpec
     method.to_s.end_with? '_MrSpec'
   end
 
+  def self.test
+    runner = MrSpec.new
+    classes = ObjectSpace.each_object(Class).select { | klass| klass.to_s.end_with? 'mr_spec'}
+    classes.each {|klass| runner.runTests klass}
+  end
+
   def runTests klass
     tests = self.getMrSpecTests klass
     results = tests.map{|test| self.run_test klass,test}

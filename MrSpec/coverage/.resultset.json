@@ -167,7 +167,7 @@
         null,
         null
       ],
-      "/home/trimegisto/Documentos/Universidad/Materias s2 2016/Ingenieria/grupal-MrSpec/MrSpec/model/Utils/Test_suits/example_suit.rb": [
+      "/home/trimegisto/Documentos/Universidad/Materias s2 2016/Ingenieria/grupal-MrSpec/MrSpec/model/Utils/Test_suits/example_suit_mr_spec.rb": [
         1,
         null,
         1,
@@ -232,6 +232,12 @@
         null,
         null,
         1,
+        0,
+        0,
+        0,
+        null,
+        null,
+        1,
         3,
         18,
         3,
@@ -260,6 +266,6 @@
         null
       ]
     },
-    "timestamp": 1478697411
+    "timestamp": 1478967268
   }
 }

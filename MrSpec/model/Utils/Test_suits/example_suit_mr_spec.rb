@@ -1,6 +1,6 @@
 require_relative '../../../model/assertions'
 
-class ExampleSuit
+class ExampleSuit_mr_spec
 
   def before
     @condition = nil
