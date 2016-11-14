@@ -13,7 +13,17 @@
     3. El usuario ejecuta el metodo runTests() de la clase creada previamente.
     4. El sistema muestra un reporte indicando que tests funcionaron y cuales fallaron.
 
-## Extensiones/Flujos secundarios
+## Extensiones/Flujos alternativos
+    1. El usuario puede refactorizar tests en cualquier momento
 
 ## Tabla resumen
+
+|                       |                                                           |
+| --------------------- | ------                                                    |
+| ID                    | CU-01                                                     |
+| Nombre                | Utilizar MrSpec como framework                            |
+| Objetivo              | Testear una clase en Ruby                                 |
+| Actores               | Usuario que utiliza Ruby (ACT-01)                         |
+| Condiciones iniciales | El usuario debe tener instalado una version de Ruby       |
+| Condiciones finales   | El usuario recibe un reporte sobre los tests ejecutados   |
     
