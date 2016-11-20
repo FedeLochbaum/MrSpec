@@ -21,10 +21,10 @@
     <SUITE FILE_PATH="coverage/Testing@Run_spec__PlaceDeVideoVieja_spec___Testing.coverage" NAME="Run spec 'PlaceDeVideoVieja_spec': Testing Coverage Results" MODIFIED="1474924790435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/MrSpec@Run_spec__Report_spec___Testing.coverage" NAME="Run spec 'Report_spec': Testing Coverage Results" MODIFIED="1477578251875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@Run_spec__computer_magnetic_disk_mother_board_spec___Testing.coverage" NAME="Run spec 'computer_magnetic_disk_mother_board_spec': Testing Coverage Results" MODIFIED="1474569515702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
-    <SUITE FILE_PATH="coverage/MrSpec@Run_spec__RunnerMrSpec_spec___Testing.coverage" NAME="Run spec 'RunnerMrSpec_spec': Testing Coverage Results" MODIFIED="1478130339785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
+    <SUITE FILE_PATH="coverage/MrSpec@Run_spec__RunnerMrSpec_spec___Testing.coverage" NAME="Run spec 'RunnerMrSpec_spec': Testing Coverage Results" MODIFIED="1479339089011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Mr Spec@All_specs_in_spec__Testing.coverage" NAME="All specs in spec: Testing Coverage Results" MODIFIED="1476142984057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/MrSpec@Run_spec__Ejemplo_spec___Testing.coverage" NAME="Run spec 'Ejemplo_spec': Testing Coverage Results" MODIFIED="1476925776920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
-    <SUITE FILE_PATH="coverage/MrSpec@All_specs_in_spec__Testing.coverage" NAME="All specs in spec: Testing Coverage Results" MODIFIED="1479057536362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
+    <SUITE FILE_PATH="coverage/MrSpec@All_specs_in_spec__Testing.coverage" NAME="All specs in spec: Testing Coverage Results" MODIFIED="1479620127756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@Run_spec__computer_magnetic_disk_new_video_board_spec___Testing.coverage" NAME="Run spec 'computer_magnetic_disk_new_video_board_spec': Testing Coverage Results" MODIFIED="1474569511112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@All_specs_in_tv_tests__Testing.coverage" NAME="All specs in tv_tests: Testing Coverage Results" MODIFIED="1474569553459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@All_tests_in_spec__Testing.coverage" NAME="All tests in spec: Testing Coverage Results" MODIFIED="1474569502677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="Testing" />
@@ -45,21 +45,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mr_spec.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mr_spec.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/mr_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="450">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assertions_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/Assertions_spec.rb">
+      <file leaf-file-name="gwt_syntax.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/gwt_syntax.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+            <state relative-caret-position="135">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -68,18 +68,18 @@
       <file leaf-file-name="report.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/report.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+            <state relative-caret-position="45">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example_suit_mr_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="example_suit_mr_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/example_suit_mr_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="228">
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -88,8 +88,8 @@
       <file leaf-file-name="RunnerMrSpec_spec.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/RunnerMrSpec_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+            <state relative-caret-position="210">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -130,8 +130,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Ruby Class Template" />
         <option value="RSpec Test Template" />
+        <option value="Ruby Class Template" />
       </list>
     </option>
   </component>
@@ -162,9 +162,10 @@
         <option value="$PROJECT_DIR$/model/report.rb" />
         <option value="$PROJECT_DIR$/model/Utils/Test_suits/example_suit.rb" />
         <option value="$PROJECT_DIR$/model/Utils/Test_suits/example_suit_MrSpec.rb" />
-        <option value="$PROJECT_DIR$/model/Utils/Test_suits/example_suit_mr_spec.rb" />
         <option value="$PROJECT_DIR$/model/mr_spec.rb" />
         <option value="$PROJECT_DIR$/spec/RunnerMrSpec_spec.rb" />
+        <option value="$PROJECT_DIR$/model/gwt_syntax.rb" />
+        <option value="$PROJECT_DIR$/model/Utils/Test_suits/example_suit_mr_spec.rb" />
       </list>
     </option>
   </component>
@@ -205,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -294,7 +296,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -611,11 +612,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'Report_spec': Testing" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'RunnerMrSpec_spec': Testing" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Run spec 'Assertions_spec': Testing" />
-        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in MrSpec: Testing" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.All specs in spec: Testing" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.All specs in spec: Testing" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'Report_spec': Testing" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Run spec 'RunnerMrSpec_spec': Testing" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Run spec 'Assertions_spec': Testing" />
+        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in MrSpec: Testing" />
       </list>
     </recent_temporary>
   </component>
@@ -659,25 +660,15 @@
       <workItem from="1478697250321" duration="762000" />
       <workItem from="1478963258896" duration="4951000" />
       <workItem from="1479148382757" duration="1192000" />
+      <workItem from="1479162423112" duration="645000" />
+      <workItem from="1479338655112" duration="655000" />
+      <workItem from="1479590652477" duration="2813000" />
+      <workItem from="1479612465043" duration="61000" />
+      <workItem from="1479614705355" duration="3369000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_specs_in_spec__Testing - 2016.11.12 at 13h 09m 19s.xml">
-      <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_specs_in_spec__Testing - 2016.11.12 at 13h 12m 04s.xml">
-      <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_specs_in_spec__Testing - 2016.11.12 at 13h 12m 17s.xml">
-      <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_specs_in_spec__Testing - 2016.11.12 at 13h 12m 41s.xml">
-      <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_specs_in_spec__Testing - 2016.11.12 at 13h 14m 13s.xml">
-      <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
     <history-entry file="All_specs_in_spec__Testing - 2016.11.12 at 13h 14m 29s.xml">
       <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
     </history-entry>
@@ -693,31 +684,46 @@
     <history-entry file="All_specs_in_spec__Testing - 2016.11.13 at 14h 19m 03s.xml">
       <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+    <history-entry file="All_specs_in_spec__Testing - 2016.11.14 at 19h 27m 31s.xml">
+      <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_specs_in_spec__Testing - 2016.11.20 at 02h 34m 26s.xml">
+      <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_specs_in_spec__Testing - 2016.11.20 at 02h 35m 28s.xml">
+      <configuration name="All specs in spec: Testing" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'RunnerMrSpec_spec'__Testing - 2016.11.16 at 20h 31m 17s.xml">
+      <configuration name="Run spec 'RunnerMrSpec_spec': Testing" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'RunnerMrSpec_spec'__Testing - 2016.11.16 at 20h 31m 29s.xml">
+      <configuration name="Run spec 'RunnerMrSpec_spec': Testing" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70940000" />
+    <option name="totallyTimeSpent" value="78483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17824773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18957704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4557377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3409836" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3409836" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40491804" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -738,7 +744,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spec/Ejemplo_spec.rb" />
     <entry file="file://$PROJECT_DIR$/model/ejemplo.rb" />
     <entry file="file://$PROJECT_DIR$/spec/PlacaDeVideoNueva_spec.rb" />
     <entry file="file://$PROJECT_DIR$/spec/PlaceDeVideoVieja_spec.rb" />
@@ -799,14 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/report.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/test_results.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -823,30 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/Assertions_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/example_suit_mr_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/RunnerMrSpec_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/Report_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -855,10 +828,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/mr_spec.rb">
+    <entry file="file://$PROJECT_DIR$/spec/Assertions_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/report.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="20" />
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/RunnerMrSpec_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/gwt_syntax.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/mr_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/example_suit_mr_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding />
         </state>
       </provider>
