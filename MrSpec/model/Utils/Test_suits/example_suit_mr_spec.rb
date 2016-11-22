@@ -38,10 +38,13 @@ class ExampleSuit_mr_spec
   end
 
   def gtw_MrSpec
+    it "se setea un contexto donde num2 = 2"
     Given {@num2 = 2}
 
+    it "a num2 se le asigna su sucesor"
     When {@num2 = @num2+1}
 
+    it "verifica que num2 es igual a 3"
     Then {assertEquals @num2, 3}
   end
 
