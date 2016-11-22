@@ -42,3 +42,26 @@ Nice to have:
 * Cantidad de puntos de iteracion: 12/12
 
 
+# Iteración 4
+*Fecha: 16/11/2016*
+
+### User stories a realizar:
+* Como usuario quiero instalar el Framework como una gema para facilitar el uso del mismo. (Dificultad: 8)
+* Como Desarrollador quiero crear un documento con el caso de uso central del proyecto para dejar documentado todo el flujo del mismo.. (Dificultad: 3)
+
+Nice to have:
+* Como desarrollador Quiero tener una best practice de OpenUP Eclipse funcionando en el proyecto para facilitar el crecimiento del mismo. (Dificultad: 3)
+
+* Cantidad de puntos de iteracion: 11/11
+
+
+# Iteración 5
+*Fecha: 23/11/2016*
+
+### User stories a realizar:
+* Como usuario Quiero crear un test con la sintaxis GWT Para verificar comportamiento. (Dificultad: 8)
+
+Nice to have:
+* Como usuario quiero tener documentacion para poder instalar y usar el Framework. (Dificultad: 5)
+
+* Cantidad de puntos de iteracion: 13/13
