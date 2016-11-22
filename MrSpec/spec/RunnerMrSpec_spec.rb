@@ -17,7 +17,7 @@ describe 'Un Runner MrSpec' do
   end
 
   it 'Dada una clase con cinco metodos que terminan con _MrSpec la longitud de la lista getMrSpecTests debe dar cinco' do
-    expect((runner.getMrSpecTests ExampleSuit_mr_spec).size).to eq 5
+    expect((runner.getMrSpecTests ExampleSuit_mr_spec).size).to eq 6
   end
 
   it 'Dada una clase sin test que terminen con _MrSpec la longitud de la lista getMrSpecTests debe ser cero' do
@@ -51,7 +51,7 @@ describe 'Un Runner MrSpec' do
 
   it 'Deberia correr todos los test de la clase ExampleSuitMrSpec y devolver los que pasaron' do
     report = runner.runTests ExampleSuit_mr_spec
-    expect(report.getSuccessResult.size).to eq 4
+    expect(report.getSuccessResult.size).to eq 5
   end
 
   it 'Deberia correr todos los test de la clase ExampleSuitMrSpec y devolver los que no pasaron' do

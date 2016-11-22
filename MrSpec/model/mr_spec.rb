@@ -1,4 +1,5 @@
 require_relative '../model/assertions'
+require_relative '../model/gwt_syntax'
 require_relative '../model/test_results'
 require_relative '../model/report'
 
@@ -28,7 +29,7 @@ class MrSpec
   end
 
   def run_test klass, test
-    sut = klass.new.extend(Assertions)
+    sut = klass.new.extend(Assertions).extend(GwtSyntax)
     begin
       call_method sut, :before
       sut.send test

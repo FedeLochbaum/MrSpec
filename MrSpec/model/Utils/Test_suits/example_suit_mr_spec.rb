@@ -37,10 +37,10 @@ class ExampleSuit_mr_spec
 
   end
 
-  def gtw_MrSpeic #le cambie el nombre aproposito, hasta que no este no lo volvemos  a poner bien
+  def gtw_MrSpec
     Given {@num2 = 2}
 
-    When {@num2+1}
+    When {@num2 = @num2+1}
 
     Then {assertEquals @num2, 3}
   end
