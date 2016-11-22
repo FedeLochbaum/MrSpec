@@ -47,7 +47,7 @@ Nice to have:
 
 ### User stories a realizar:
 * Como usuario quiero instalar el Framework como una gema para facilitar el uso del mismo. (Dificultad: 8)
-* Como Desarrollador quiero crear un documento con el caso de uso central del proyecto para dejar documentado todo el flujo del mismo.. (Dificultad: 3)
+* Como Desarrollador quiero crear un documento con el caso de uso central del proyecto para dejar documentado todo el flujo del mismo. (Dificultad: 3)
 
 Nice to have:
 * Como desarrollador Quiero tener una best practice de OpenUP Eclipse funcionando en el proyecto para facilitar el crecimiento del mismo. (Dificultad: 3)
