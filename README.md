@@ -29,16 +29,14 @@ permitiendo la realización de los tests de forma sencilla y pudiendo utilizar e
                                  En esa clase, se deben crear los diferentes tests, cuyos nombres deben finalizar con *_MrSpec*
                                  Si se llegaran a utilizar, definir metodos setUp y Before para reestablecer las variables previo a cada ejecución de test.
 
-  
-  
-    ***Definición de un test con la sintaxis Given, When Then:** 
+   ***Definición de un test con la sintaxis Given, When Then:***
     
-    ```
-        Given {Creación de las variables}
-        When {Manipulación de las variables}
-        Then {Aserción de la manipulación realizada}
-    ```
-    
-    Por último, a darle runTests se observa un reporte como este:
-    
-    ![](https://gitlab.com/eis-tpi-unq-2016-s02/grupal-mr-spec/raw/master/docs/MrSpecreadme.png)
+```Ruby
+Given {Creación de las variables}
+When {Manipulación de las variables}
+Then {Aserción de la manipulación realizada}
+```
+
+Por último, al darle runTests se observa un reporte como este:
+
+![](https://gitlab.com/eis-tpi-unq-2016-s02/grupal-mr-spec/raw/master/docs/MrSpecreadme.png)
