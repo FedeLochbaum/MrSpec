@@ -1,0 +1,5 @@
+require_relative '../../../model/Utils/Test_suits/example_suit_mr_spec'
+require_relative '../../../model/Utils/Test_suits/runner_mr_spec_mr_spec'
+require_relative '../../../model/Utils/Test_suits/assertions_mr_spec'
+require_relative '../../../model/Utils/Test_suits/report_mr_spec'
+require_relative '../../../model/mr_spec'
