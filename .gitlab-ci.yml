@@ -11,6 +11,6 @@ before_script:
 rspec:
   script:  
   - irb
-  - require '/grupal-MrSpec/MrSpec/model/Utils/Test_suits/main_requires.rb'
+  - require '/MrSpec/model/Utils/Test_suits/main_requires.rb'
   - MrSpec.test
 
