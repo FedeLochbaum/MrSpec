@@ -10,6 +10,7 @@ before_script:
 
 rspec:
   script:  
-  - cd MrSpec
-  - rspec spec
+  - bundle exec irb
+  - require '/grupal-MrSpec/MrSpec/model/Utils/Test_suits/main_requires.rb'
+  - MrSpec.test
 
