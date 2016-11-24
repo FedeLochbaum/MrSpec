@@ -1,8 +1,7 @@
-require_relative '../../../model/assertions'
-
 class ExampleSuit_mr_spec
 
   def before
+    it "seteo del contexto previo a la ejecucion de los test"
     @condition = nil
     @condition2 = nil
     @num = nil
@@ -10,11 +9,13 @@ class ExampleSuit_mr_spec
   end
 
   def assert_true_true_MrSpec
+    it "verificamos que el assertTrue funciona"
     @condition = true
     assertTrue @condition
   end
 
   def assert_false_false_MrSpec
+    it "verificamos que el assertFalse funciona"
     @condition2 = false
     assertFalse @condition2
   end
@@ -28,6 +29,7 @@ class ExampleSuit_mr_spec
   end
 
   def assert_tres_eq_dos_MrSpec
+    it "verificamos que el asserEquals funciona"
     @num2 = 3
     @num = 2
     assertEquals @num2, @num
@@ -50,6 +52,7 @@ class ExampleSuit_mr_spec
 
 
   def after
+    it "seteo del contexto posterior a la ejecucion de los test"
     @condition = nil
     @condition2 = nil
     @num = nil
