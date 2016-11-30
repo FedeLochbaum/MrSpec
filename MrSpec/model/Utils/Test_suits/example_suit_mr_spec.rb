@@ -17,7 +17,7 @@ class ExampleSuit_mr_spec
   def assert_false_false_MrSpec
     it "verificamos que el assertFalse funciona"
     @condition2 = false
-    assertFalse @condition2
+    expect @condition2, :assertEquals, false
   end
 
   def c
