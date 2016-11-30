@@ -1,4 +1,4 @@
-require '/home/trimegisto/Documentos/Universidad/Materias s2 2016/Ingenieria/grupal-MrSpec/MrSpec/model/assertions.rb'
+require_relative '../model/assertions'
 module SpecSyntax
 
   def expect receive, selector, expect
