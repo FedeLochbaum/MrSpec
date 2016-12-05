@@ -55,7 +55,7 @@ class Report
         "Hello friend.",
         "Hello friend? That's lame.", 
         "You're only in my head, we have to remember that.",
-        "What I'm about to tell you is top secret. A conspiracy bigger than all of us."
+        "What I'm about to tell you is top secret. A conspiracy bigger than all of us.",
         "I'm good at reading people. My secret? I look for the worst in them.",
         "I wanted to save the world.",
         "The bug forces the software to adapt, evolve into something new because of it. Work around it or work through it. No matter what, it changes. It becomes something new.",
