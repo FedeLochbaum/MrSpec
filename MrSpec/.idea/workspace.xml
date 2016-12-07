@@ -19,10 +19,10 @@
     <SUITE FILE_PATH="coverage/Mr Spec@Run_spec__Ejemplo_spec___Testing.coverage" NAME="Run spec 'Ejemplo_spec': Testing Coverage Results" MODIFIED="1476890525840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@Run_spec__computer_solid_disk_mother_board_spec___Testing.coverage" NAME="Run spec 'computer_solid_disk_mother_board_spec': Testing Coverage Results" MODIFIED="1474569518680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@Run_spec__PlaceDeVideoVieja_spec___Testing.coverage" NAME="Run spec 'PlaceDeVideoVieja_spec': Testing Coverage Results" MODIFIED="1474924790435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
-    <SUITE FILE_PATH="coverage/MrSpec@Run_spec__Report_spec___Testing.coverage" NAME="Run spec 'Report_spec': Testing Coverage Results" MODIFIED="1480542997209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
+    <SUITE FILE_PATH="coverage/MrSpec@Run_spec__Report_spec___Testing.coverage" NAME="Run spec 'Report_spec': Testing Coverage Results" MODIFIED="1481147170400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@Run_spec__computer_magnetic_disk_mother_board_spec___Testing.coverage" NAME="Run spec 'computer_magnetic_disk_mother_board_spec': Testing Coverage Results" MODIFIED="1474569515702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/MrSpec@All_tests_in_spec__Testing.coverage" NAME="All tests in spec: Testing Coverage Results" MODIFIED="1480542102137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="Testing" />
-    <SUITE FILE_PATH="coverage/MrSpec@Run_spec__RunnerMrSpec_spec___Testing.coverage" NAME="Run spec 'RunnerMrSpec_spec': Testing Coverage Results" MODIFIED="1480543002127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
+    <SUITE FILE_PATH="coverage/MrSpec@Run_spec__RunnerMrSpec_spec___Testing.coverage" NAME="Run spec 'RunnerMrSpec_spec': Testing Coverage Results" MODIFIED="1481147175053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Mr Spec@All_specs_in_spec__Testing.coverage" NAME="All specs in spec: Testing Coverage Results" MODIFIED="1476142984057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/MrSpec@Run_spec__Ejemplo_spec___Testing.coverage" NAME="Run spec 'Ejemplo_spec': Testing Coverage Results" MODIFIED="1476925776920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/MrSpec@Run_spec__example_suit_mr_spec___Testing.coverage" NAME="Run spec 'example_suit_mr_spec': Testing Coverage Results" MODIFIED="1479992601023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/Utils/Test_suits" MODULE_NAME="Testing" />
@@ -35,7 +35,7 @@
     <SUITE FILE_PATH="coverage/Testing@Run_spec__computer_solid_disk_old_video_board_spec___Testing.coverage" NAME="Run spec 'computer_solid_disk_old_video_board_spec': Testing Coverage Results" MODIFIED="1474569527966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@All_specs_in_spec__Testing.coverage" NAME="All specs in spec: Testing Coverage Results" MODIFIED="1474930964551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/MrSpec@Un_Reporte_MrSpec_con_3_test__2_success_y_1_failure_Dado_los_resultados__el_reporte_dice_cuanto_tardo_en_ejecutar_todos_los_resultados__Testing.coverage" NAME="Un Reporte MrSpec con 3 test, 2 success y 1 failure Dado los resultados, el reporte dice cuanto tardo en ejecutar todos los resultados: Testing Coverage Results" MODIFIED="1479994028344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
-    <SUITE FILE_PATH="coverage/MrSpec@Run_spec__Assertions_spec___Testing.coverage" NAME="Run spec 'Assertions_spec': Testing Coverage Results" MODIFIED="1480542994143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
+    <SUITE FILE_PATH="coverage/MrSpec@Run_spec__Assertions_spec___Testing.coverage" NAME="Run spec 'Assertions_spec': Testing Coverage Results" MODIFIED="1481147161630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/Testing@All_specs_in_computer_tests__Testing.coverage" NAME="All specs in computer_tests: Testing Coverage Results" MODIFIED="1474569536153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
     <SUITE FILE_PATH="coverage/MrSpec@All_tests_in_MrSpec__Testing.coverage" NAME="All tests in MrSpec: Testing Coverage Results" MODIFIED="1476925755541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Testing" />
   </component>
@@ -47,98 +47,7 @@
     <favorites_list name="Testing" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="report_mr_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/report_mr_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="114" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="runner_mr_spec_mr_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/runner_mr_spec_mr_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Assertions_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/Assertions_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spec_syntax.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/model/spec_syntax.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main_requires.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/main_requires.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gwt_syntax.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/gwt_syntax.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mr_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/mr_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example_suit_mr_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/example_suit_mr_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assertions.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/assertions.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -701,17 +610,12 @@
       <workItem from="1480007662427" duration="1343000" />
       <workItem from="1480360200546" duration="1720000" />
       <workItem from="1480540697525" duration="2301000" />
+      <workItem from="1481147141152" duration="346000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec_'Assertions_spec'__Testing - 2016.11.30 at 18h 51m 15s.xml">
-      <configuration name="Run spec 'Assertions_spec': Testing" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'Assertions_spec'__Testing - 2016.11.30 at 18h 54m 43s.xml">
-      <configuration name="Run spec 'Assertions_spec': Testing" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'Assertions_spec'__Testing - 2016.11.30 at 18h 56m 34s.xml">
+    <history-entry file="Run_spec_'Assertions_spec'__Testing - 2016.12.07 at 18h 46m 03s.xml">
       <configuration name="Run spec 'Assertions_spec': Testing" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Run_spec_'Report_spec'__Testing - 2016.11.30 at 18h 51m 19s.xml">
@@ -721,6 +625,9 @@
       <configuration name="Run spec 'Report_spec': Testing" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Run_spec_'Report_spec'__Testing - 2016.11.30 at 18h 56m 37s.xml">
+      <configuration name="Run spec 'Report_spec': Testing" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'Report_spec'__Testing - 2016.12.07 at 18h 46m 11s.xml">
       <configuration name="Run spec 'Report_spec': Testing" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Run_spec_'RunnerMrSpec_spec'__Testing - 2016.11.30 at 18h 51m 22s.xml">
@@ -735,22 +642,25 @@
     <history-entry file="Run_spec_'RunnerMrSpec_spec'__Testing - 2016.11.30 at 18h 56m 42s.xml">
       <configuration name="Run spec 'RunnerMrSpec_spec': Testing" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_spec_'RunnerMrSpec_spec'__Testing - 2016.12.07 at 18h 46m 15s.xml">
+      <configuration name="Run spec 'RunnerMrSpec_spec': Testing" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103861000" />
+    <option name="totallyTimeSpent" value="104207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18731117" sideWeight="0.49186993" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18957704" sideWeight="0.49186993" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43770492" sideWeight="0.5030211" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19344263" sideWeight="0.49697885" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40655738" sideWeight="0.49697885" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.87540984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4852459" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18731117" sideWeight="0.5081301" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -884,13 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/Report_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/report_mr_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -907,18 +810,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/assertions.rb">
+    <entry file="file://$PROJECT_DIR$/spec/Assertions_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="165">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/example_suit_mr_spec.rb">
+    <entry file="file://$PROJECT_DIR$/model/spec_syntax.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -947,18 +850,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/Assertions_spec.rb">
+    <entry file="file://$PROJECT_DIR$/model/Utils/Test_suits/example_suit_mr_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="255">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/spec_syntax.rb">
+    <entry file="file://$PROJECT_DIR$/model/assertions.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+        <state relative-caret-position="15">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Report_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="24" selection-end-column="5" />
           <folding />
         </state>
       </provider>
