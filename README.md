@@ -23,9 +23,7 @@ permitiendo la realización de los tests de forma sencilla y pudiendo utilizar e
 def method_MrSpec
    definicion de variables
    manipulacion de variables
-   assertTrue metodo a verificar
-   assertFalse metodo a verificar
-   assertEquals valor1, valor2
+   algunaAsercion valor
 end
 ```                                 
 
@@ -50,6 +48,11 @@ def method_MrSpec
 end
 ```   
 
+   ***Aserciones posibles:***
+    
+   - assertTrue unValor
+   - assertFalse unValor
+   - assertEquals unValor, otroValor
 
 
 Por último, al darle runTests se observa un reporte como este:
