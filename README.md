@@ -18,7 +18,7 @@ Implementacion de un Framework de BDD mediante el uso de DSLs y metaprogamacion 
    
    ***Definición de un test:*** Se debe crear una clase de test cuyo nombre finalice con *_mr_spec*
                                  En esa clase, se deben crear los diferentes tests, cuyos nombres deben finalizar con *_MrSpec*
-                                 Si se llegaran a utilizar, definir metodos setUp y Before para reestablecer las variables previo a cada ejecución de test.
+                                Permitiendo definir metodos setup y before para reestablecer las variables previo a cada ejecución de test.
                                  
    ***Definición de un test con la sintaxis clasica:***
     
