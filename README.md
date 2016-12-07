@@ -3,19 +3,22 @@ Mr. Spec
 
 ## Framework de BDD para Ruby
 
-Mediante el uso de DSLs y metaprogramación tenemos como objetivo lograr un framework que sirva para testear proyectos utilizando BDD
-permitiendo la realización de los tests de forma sencilla y pudiendo utilizar el principio GIVEN, WHEN, THEN
+Implementacion de un Framework de BDD mediante el uso de DSLs y metaprogamacion permitiendo la realización de tests de forma sencilla con sintaxis GIVEN, WHEN, THEN o Spec.
 
 
 ## Instalación y uso del Framework:
 
-**Instalación:** Realizar un clone del repositorio actual e importar los archivos de la carpeta MrSpec/model al repositorio en el que se este trabajando.
+   ***Instalacion:*** 
+   
+   - git clone https://github.com/trimegisto87/MrSpec.git
+   - require  MrSpec/MrSpec/model/Utils/Test_suits/main_requires.rb
+   - En consola tipiar: MrSpec.test
 
 **Uso:**
    
    ***Definición de un test:*** Se debe crear una clase de test cuyo nombre finalice con *_mr_spec*
-                                 En esa clase, se deben crear los diferentes tests, cuyos nombres deben finalizar con *_MrSpec*
-                                 Si se llegaran a utilizar, definir metodos setUp y Before para reestablecer las variables previo a cada ejecución de test.
+                                 En esa clase, se deben crear los diferentes tests, cuyos nombres deben finalizar con *_MrSpec*. 
+                                Permitiendo definir metodos setup y before para reestablecer las variables previo a cada ejecución de test.
                                  
    ***Definición de un test con la sintaxis clasica:***
     
@@ -63,12 +66,4 @@ end
    * Reporte general de los tests
 ```  
 
-![](https://github.com/trimegisto87/MrSpec/raw/master/docs/MrSpecreadme.png)
-
-
-   ***Instalacion del Framework:*** 
-   
-   - git clone https://github.com/trimegisto87/MrSpec.git
-   - require  MrSpec/MrSpec/model/Utils/Test_suits/main_requires.rb
-   - En consola tipiar: MrSpec.test
-
+![](https://github.com/trimegisto87/MrSpec/raw/master/docs/MrSpecreadme2.png)
