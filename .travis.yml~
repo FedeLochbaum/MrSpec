@@ -16,6 +16,7 @@ install:
   - rspec spec
 
 script:  
-  
+  - cd MrSpec
+  - rspec spec
 
 

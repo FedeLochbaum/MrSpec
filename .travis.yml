@@ -13,10 +13,8 @@ install:
   - gem install bundler  --no-ri --no-rdoc
   - bundle install -j $(nproc) --gemfile=MrSpec/Gemfile
   - cd MrSpec
-  - rspec spec
 
 script:  
-  - cd MrSpec
   - rspec spec
 
 
