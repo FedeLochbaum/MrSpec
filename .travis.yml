@@ -13,6 +13,7 @@ install:
   - bundle install -j $(nproc) --gemfile=MrSpec/Gemfile
 
 script:  
+  - ls
   - cd MrSpec
   - rspec spec
 
