@@ -1,0 +1,16 @@
+language: ruby
+rvm:
+  - 2.2
+  - jruby
+os:
+ - linux
+
+install:
+  - gem install bundler  --no-ri --no-rdoc
+  - bundle install -j $(nproc) --gemfile=MrSpec/Gemfile
+
+script:  
+  - cd MrSpec
+  - rspec spec
+
+
