@@ -63,7 +63,7 @@ end
    * Reporte general de los tests
 ```  
 
-![](https://github.com/trimegisto87/MrSpec/raw/master/docs/MrSpecreadme.png)
+![](https://github.com/trimegisto87/MrSpec/raw/master/docs/MrSpecreadme2.png)
 
 
    ***Instalacion del Framework:*** 
