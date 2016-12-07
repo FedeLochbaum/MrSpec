@@ -1,4 +1,6 @@
 language: ruby
+cache: bundler
+
 rvm:
   - 2.2
 
@@ -6,7 +8,8 @@ os:
   - linux
 
 before_install:
-- rvm install 2.2
+  - gem update
+  - rvm install 2.2
 
 gemfile: MrSpec/Gemfile
 
