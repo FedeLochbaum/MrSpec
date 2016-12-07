@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/teepublic/image/private/s--HszJ7-aF--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1446235287/production/designs/251066_5.jpg) Mr. Spec
+![alt tag](https://res.cloudinary.com/teepublic/image/private/s--HszJ7-aF--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1446235287/production/designs/251066_5.jpg) Mr. Spec
 ========
 
 ## Framework de BDD para Ruby
