@@ -1,24 +1,21 @@
 language: ruby
 cache: bundler
-
+sudo: false
 rvm:
   - 2.2
 
-os:
-  - linux
-
 before_install:
   - gem update
-  - rvm install 2.2
 
 gemfile: MrSpec/Gemfile
 
 install:
   - gem install bundler  --no-ri --no-rdoc
   - bundle install -j $(nproc) --gemfile=MrSpec/Gemfile
-
-script:  
   - cd MrSpec
   - rspec spec
+
+script:  
+  
 
 
