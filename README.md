@@ -50,17 +50,25 @@ end
 
    ***Aserciones posibles:***
 ``` 
-   - assertTrue unValor
-   - assertFalse unValor
-   - assertEquals unValor, otroValor
+   * assertTrue unValor
+   * assertFalse unValor
+   * assertEquals unValor, otroValor
 ``` 
 
    ***Caracteristicas del reporte:*** 
 ``` 
-   - Representacion MrSpec en ASCII
-   - Quote random Mr.Robot
-   - Evaluacion de cada test
-   - Reporte general de los tests
+   * Representacion MrSpec en ASCII
+   * Quote random Mr.Robot
+   * Evaluacion de cada test
+   * Reporte general de los tests
 ```  
 
 ![](https://github.com/trimegisto87/MrSpec/raw/master/docs/MrSpecreadme.png)
+
+
+   ***Instalacion del Framework:*** 
+   
+   - git clone https://github.com/trimegisto87/MrSpec.git
+   - require  MrSpec/MrSpec/model/Utils/Test_suits/main_requires.rb
+   - En consola tipiar: MrSpec.test
+
