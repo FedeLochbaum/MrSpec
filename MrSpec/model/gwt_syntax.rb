@@ -1,13 +1,5 @@
 module GwtSyntax
 
-  def initialize
-
-  end
-
-  def it string
-
-  end
-
   def Given &contex
     contex.call
   end

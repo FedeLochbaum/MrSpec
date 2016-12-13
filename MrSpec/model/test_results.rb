@@ -4,9 +4,9 @@ class Test_result
     attr_accessor :exception, :signature, :test_case
 
     def initialize(signature, test_case,exception)
-      self.exception = exception
-      self.signature = signature
-      self.test_case = test_case
+      @exception = exception
+      @signature = signature
+      @test_case = test_case
     end
 
     def failure?
@@ -17,6 +17,14 @@ class Test_result
       false
     end
 
+    def succesMessage
+      ("El test " + signature.to_s + " de la clase " + test_case.to_s + "se ha ejecutado correctamente").colorize(:green).bold
+    end
+
+    def failureMessage
+      ("Error en test " + signature.to_s + " de la clase " + test_case.to_s + " " + exception.message).colorize(:red).bold
+    end
+
 end
 
  class TestSucceded < Test_result
@@ -25,10 +33,11 @@ end
     end
 
    def message
-      if(self.exception.nil?)
-        ("El test " + signature.to_s + " de la clase " + self.test_case.to_s + "se ha ejecutado correctamente").colorize(:green).bold
-      else
-        ("Error en test " + signature.to_s + " de la clase " + self.test_case.to_s + " " + self.exception.message).colorize(:red).bold
+      case exception
+        when nil
+          succesMessage
+        else
+          failureMessage
       end
     end
  end
@@ -39,7 +48,7 @@ end
    end
 
    def message
-     ("Error en test " + signature.to_s + " de la clase " + self.test_case.to_s + " " + self.exception.message).colorize(:red).bold
+     failureMessage
    end
  end
 

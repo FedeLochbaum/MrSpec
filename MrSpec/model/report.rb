@@ -83,15 +83,16 @@ class Report
   def report
     putsMrSpecMessage
     putsMrRobotMessage
-    @end_time = Time.now
+
+    end_time = Time.now
     self.results.each do |result|
       puts result.message
     end
 
-     puts (self.results.length.to_s + " tests").colorize(:light_blue).bold
-     puts (self.getSuccessResult.length.to_s + " tests ejecutados correctamente").colorize(:light_blue).underline.bold
-     puts (self.getFailureResult.length.to_s +  " tests fallidos").colorize(:light_blue).bold
-     puts ("Tests ejecutados en " + self.timeLapse.to_s + " segundos").colorize(:light_blue).bold
+     puts (results.length.to_s + " tests").colorize(:light_blue).bold
+     puts (getSuccessResult.length.to_s + " tests ejecutados correctamente").colorize(:light_blue).underline.bold
+     puts (getFailureResult.length.to_s +  " tests fallidos").colorize(:light_blue).bold
+     puts ("Tests ejecutados en " + timeLapse.to_s + " segundos").colorize(:light_blue).bold
 
   end
 

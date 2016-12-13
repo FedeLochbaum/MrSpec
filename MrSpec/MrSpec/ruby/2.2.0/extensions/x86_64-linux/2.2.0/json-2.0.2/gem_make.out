@@ -1,4 +1,4 @@
-/home/trimegisto/.rvm/rubies/ruby-2.2.4/bin/ruby -r ./siteconf20161019-2799-54345h.rb extconf.rb
+/home/trimegisto/.rvm/rubies/ruby-2.2.4/bin/ruby -r ./siteconf20161213-20143-ogabj3.rb extconf.rb
 creating Makefile
 
 make "DESTDIR=" clean

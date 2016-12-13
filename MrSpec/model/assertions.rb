@@ -9,11 +9,7 @@ module Assertions
   end
 
   def assertFalse bool
-    if !bool
-    !bool
-    else
-      raise AssertionException.new ("Esperaba False Pero Fue " + bool.to_s)
-    end
+    assertTrue !bool
   end
 
   def assertEquals value, value1
